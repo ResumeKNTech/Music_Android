@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "582591397655",
+    "firebase_url": "https://musicapp-de99b-default-rtdb.firebaseio.com",
+    "project_id": "musicapp-de99b",
+    "storage_bucket": "musicapp-de99b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:582591397655:android:f3a96dbe9ba229f6330152",
+        "android_client_info": {
+          "package_name": "com.android_app.music"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCiOjgaD7oBjqP6AyoeZHirSBh3K6CUDpY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
